@@ -1,0 +1,3 @@
+const useMusicePlayer = () => {};
+
+export { useMusicePlayer };
